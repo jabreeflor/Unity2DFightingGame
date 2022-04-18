@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level_0.unity
+    guid: 57ce451d2fb13d347a2100958d30d055
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: d64a13b563a571e4d85cba7334e27c14
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 64bd5245d88ef784fa4acc90a0ca0b60
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 576f6ac3264ddcc4f85d2f7535f64e3c
+  - enabled: 1
+    path: Assets/Scenes/LocalOnline.unity
+    guid: 5587cbf9f0f5fa0499a945c37b061d71
+  - enabled: 1
+    path: Assets/Scenes/MultiLevel_1.unity
+    guid: e41838671c036d144aab1fd7c1dbeb5e
+  - enabled: 1
+    path: Assets/Scenes/MultiLevel_2.unity
+    guid: 6dd582119d00c3b499fa18436bdd1eb6
+  - enabled: 1
+    path: Assets/Scenes/MultiLevel_3.unity
+    guid: 883faf5814cc3b9468368d8eb2cb756f
+  - enabled: 1
+    path: Assets/Scenes/MultiPlayer1Select.unity
+    guid: a6935c54b9033e64f8390d02a8289c0d
+  - enabled: 1
+    path: Assets/Scenes/MultiPlayer2Select.unity
+    guid: 5b3cd64267a35044e9fc7e42ed7c5295
+  - enabled: 1
+    path: Assets/Scenes/ConnectToServer.unity
+    guid: ca083681528ce574eb20d3743250f673
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 6ab7c974f2ed4474bab47be8a9b351ee
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 169bd4b252d028d45b90ed4773e6e3f6
+  m_configObjects: {}
